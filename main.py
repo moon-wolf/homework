@@ -15,7 +15,7 @@ def LEDoff():
     subprocess.call(led_cmd, shell=True)
 
 def wait(self):
-    """wiat time"""
+    """wait time"""
     time.sleep(self)
 
 def happynewyear():
