@@ -1,6 +1,6 @@
 # ロボットシステム学2018課題１
 
-* クリスマスの文字をMorse codeを変更して、LEDが点灯するプログラムを作成
+* happy new yearの文字をMorse codeを変更して、LEDが点灯するプログラムを作成
 
 
 ## Demo video
